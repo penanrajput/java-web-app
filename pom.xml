@@ -3,16 +3,8 @@
   <groupId>Jenkinsproject3</groupId>
   <artifactId>Jenkinsproject3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
   
-  <dependencies>
-	<dependency>
-			<groupId>com.sarav</groupId>
-			<artifactId>TomcatMavenApp</artifactId>
-			<version>2.0</version>
-			<packaging>war</packaging>
-	
-	</dependency>
   
-  </dependencies>
   
 </project>
